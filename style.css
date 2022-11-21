@@ -256,14 +256,14 @@ font-family: 'Raleway', sans-serif;
 }
 
 .calc_title {
-  font-family: "Gilroy_light";
+font-family: 'Raleway', sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 36px;
   line-height: 44px;
 }
 .calc_row_num {
-  font-family: "Gilroy_light";
+font-family: 'Raleway', sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
@@ -280,7 +280,7 @@ font-family: 'Raleway', sans-serif;
   padding-inline-start: 0px;
   padding-top: 24px;
   padding-bottom: 24px;
-  font-family: "Gilroy_light";
+ font-family: 'Raleway', sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
