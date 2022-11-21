@@ -5,7 +5,7 @@
 }
 @font-face {
   font-family: "Gilroy_light";
-  src: url(/Gilroy-Light.otf);
+  src: url(../Gilroy-Light.otf);
 }
 body {
   margin: 0px;
