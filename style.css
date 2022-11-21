@@ -4,7 +4,7 @@
   margin: auto;
 }
 @font-face {
-  font-family: "Gilroy_light";
+  font-family: "font-family: 'Raleway', sans-serif;";
   src: url(../Gilroy-Light.otf);
 }
 body {
@@ -157,7 +157,7 @@ Menu
   padding-bottom: 89px;
 }
 .contact_name {
-  font-family: "Gilroy_light";
+font-family: 'Raleway', sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -170,7 +170,7 @@ Menu
 }
 
 .subtitle_inner .contact_col .contact_row {
-  font-family: "Gilroy_light";
+font-family: 'Raleway', sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 36px;
@@ -189,7 +189,7 @@ Menu
 .blue {
   /* title */
 
-  font-family: "Gilroy_light";
+font-family: 'Raleway', sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 36px;
