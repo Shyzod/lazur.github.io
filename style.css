@@ -79,7 +79,7 @@ Menu
 .subtitle_title {
   max-width: 761px;
   padding-bottom: 24px;
-  font-family: "Gilroy_light";
+font-family: 'Raleway', sans-serif;
   font-weight: 500;
   font-size: 96px;
   line-height: 96px;
@@ -318,7 +318,7 @@ font-family: 'Raleway', sans-serif;
 
 .calc_radio_desc {
   padding-top: 12px;
-  font-family: "Gilroy_light";
+font-family: 'Raleway', sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -326,7 +326,7 @@ font-family: 'Raleway', sans-serif;
 }
 .calc_radio_name {
   position: relative;
-  font-family: "Gilroy_light";
+font-family: 'Raleway', sans-serif;
   font-style: normal;
   font-weight: 600;
   font-size: 20px;
@@ -346,7 +346,7 @@ font-family: 'Raleway', sans-serif;
   text-align: center;
   background: #0e110f;
   border-radius: 0px 0px 10px 10px;
-  font-family: "Gilroy_light";
+font-family: 'Raleway', sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 36px;
@@ -395,7 +395,7 @@ input {
   /* flex-direction: column; */
   justify-content: space-between;
   text-align: left;
-  font-family: "Gilroy_light";
+font-family: 'Raleway', sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -464,7 +464,7 @@ input {
   border: none;
 
   /* text */
-  font-family: Gilroy_light;
+font-family: 'Raleway', sans-serif;
   font-size: 16px;
   font-weight: 400;
   line-height: 21px;
